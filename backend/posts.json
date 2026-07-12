@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "Exploring generative video tools. The speed at which text-to-video is improving is unbelievable! \ud83c\udfa5\u2728 #ai #videoart #generativeai #tech",
+    "date": "2026-06-27",
+    "category": "GenAI"
+  },
+  {
+    "id": 2,
+    "platform": "LinkedIn",
+    "author": "NextGen Recruiters",
+    "profileImage": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150",
+    "caption": "Reviewing the recent open-source library vulnerability. Make sure your dependencies are up to date and scanned regularly.",
+    "date": "2026-06-25",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 3,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "Sunday brunch setup. Fluffy pancakes, fresh berries, and maple syrup. \ud83e\udd5e\ud83c\udf53 #brunch #sundayvibes #pancakes #foodphotography",
+    "date": "2026-06-28",
+    "category": "Food"
+  },
+  {
+    "id": 4,
+    "platform": "LinkedIn",
+    "author": "Sarah Jenkins",
+    "profileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "caption": "The best code is the code you didn't have to write. Keep systems simple and leverage existing reliable solutions.",
+    "date": "2026-07-05",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 5,
+    "platform": "Facebook",
+    "author": "Local Sports Hub",
+    "profileImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=150",
+    "caption": "Sharing a spreadsheet of free university courses on computer science and programming.",
+    "date": "2026-07-10",
+    "category": "Education"
+  },
+  {
+    "id": 6,
+    "platform": "Facebook",
+    "author": "Local Sports Hub",
+    "profileImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=150",
+    "caption": "Can we talk about how fast artificial intelligence is evolving? It feels like every week there's a brand new breakthrough model that changes everything. What do you think this means for jobs?",
+    "date": "2026-07-02",
+    "category": "AI"
+  },
+  {
+    "id": 7,
+    "platform": "Instagram",
+    "author": "wanderlust_dan",
+    "profileImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "caption": "Reading through open-source code to understand how routing is implemented. Best textbook ever! \ud83d\udcd6\ud83d\udcbb #developerlife #github #code",
+    "date": "2026-06-26",
+    "category": "Open Source"
+  },
+  {
+    "id": 8,
+    "platform": "Facebook",
+    "author": "Jane Doe Vlogs",
+    "profileImage": "https://images.unsplash.com/photo-1534751516642-a131ffd107fd?w=150",
+    "caption": "Throwback to when deep blue beat kasparov. The history of AI is full of major milestones that seemed impossible at the time.",
+    "date": "2026-06-27",
+    "category": "AI"
+  },
+  {
+    "id": 9,
+    "platform": "Instagram",
+    "author": "codewith_clara",
+    "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "caption": "Golden hour in the mountains. The light was absolutely magical! \ud83c\udfd4\ufe0f\ud83d\udcf8 #landscapephotography #goldenhour #sunset #nature",
+    "date": "2026-06-25",
+    "category": "Photography"
+  },
+  {
+    "id": 10,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "The anatomy of a box plot. Understanding medians, quartiles, and outliers at a glance! \ud83d\udcca #education #datascience #maths",
+    "date": "2026-07-04",
+    "category": "Data Science"
+  },
+  {
+    "id": 11,
+    "platform": "Instagram",
+    "author": "pixel_perfectionist",
+    "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "caption": "Keyboard shortcuts every software engineer should know. Boost your productivity! \u2328\ufe0f\u26a1 #productivity #codingtips #coder",
+    "date": "2026-07-04",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 12,
+    "platform": "LinkedIn",
+    "author": "Sarah Jenkins",
+    "profileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "caption": "Serverless architecture allows developers to focus on writing code instead of managing infrastructure. AWS Lambda and Cloudflare Workers are leading the charge.",
+    "date": "2026-07-09",
+    "category": "Cloud Computing"
+  },
+  {
+    "id": 13,
+    "platform": "Instagram",
+    "author": "codewith_clara",
+    "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "caption": "Passed my AWS Cloud Practitioner exam! \ud83e\udd73 Hard work paid off. Time to celebrate! #aws #certification #cloudcareer #learning",
+    "date": "2026-06-30",
+    "category": "Cloud Computing"
+  },
+  {
+    "id": 14,
+    "platform": "LinkedIn",
+    "author": "Sarah Jenkins",
+    "profileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "caption": "What youth sports taught me about professional leadership: discipline, resilience, handling loss, and executing strategy.",
+    "date": "2026-07-09",
+    "category": "Sports"
+  },
+  {
+    "id": 15,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "What is the best SQL query optimizer tool you've used? Writing complex joins on multi-million row tables is slowing down our dashboards.",
+    "date": "2026-06-25",
+    "category": "Data Science"
+  },
+  {
+    "id": 16,
+    "platform": "LinkedIn",
+    "author": "Elena Rostova",
+    "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "caption": "A meeting over lunch is the oldest networking tool. Great food breaks down barriers and builds strong professional relationships.",
+    "date": "2026-07-09",
+    "category": "Food"
+  },
+  {
+    "id": 17,
+    "platform": "Instagram",
+    "author": "startup_hustle",
+    "profileImage": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150",
+    "caption": "Road trip along the Pacific Coast Highway. Good music, open roads, and ocean views. \ud83d\ude97\ud83c\udf0a #roadtrip #california #travelblogger #sunset",
+    "date": "2026-07-08",
+    "category": "Travel"
+  },
+  {
+    "id": 18,
+    "platform": "Facebook",
+    "author": "Robert Downey Jr. Fan Club",
+    "profileImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "caption": "Host a family dinner party last night. Cooked a traditional lasagna from scratch and it was a huge hit!",
+    "date": "2026-07-08",
+    "category": "Food"
+  },
+  {
+    "id": 19,
+    "platform": "LinkedIn",
+    "author": "David Chen",
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "caption": "Congratulations to our corporate marathon team. Running 26.2 miles requires the same persistence as building a business.",
+    "date": "2026-07-03",
+    "category": "Sports"
+  },
+  {
+    "id": 20,
+    "platform": "Instagram",
+    "author": "fit_life_sam",
+    "profileImage": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+    "caption": "Plants make a home feel so alive! Added a new monstera to my indoor jungle today. \ud83c\udf3f\ud83c\udfe1 #houseplants #interior #homedecor",
+    "date": "2026-07-07",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 21,
+    "platform": "LinkedIn",
+    "author": "Marcus Thompson",
+    "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "caption": "Wishing all our clients, partners, and employees a very happy and prosperous festival season. Enjoy the celebrations!",
+    "date": "2026-07-09",
+    "category": "Festivals"
+  },
+  {
+    "id": 22,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "What is your go-to CSS framework in 2026? Tailwind CSS, Bootstrap, or styled-components? Let's discuss in the comments.",
+    "date": "2026-07-08",
+    "category": "Web Development"
+  },
+  {
+    "id": 23,
+    "platform": "Instagram",
+    "author": "fit_life_sam",
+    "profileImage": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+    "caption": "Creating strong passwords that you can actually remember! Say no to 'password123'. \ud83d\udd10\ud83d\udca1 #security #tech #hackers #hacks",
+    "date": "2026-06-30",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 24,
+    "platform": "LinkedIn",
+    "author": "TechVanguard Solutions",
+    "profileImage": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=150",
+    "caption": "A brief write-up on the logistics of managing remote teams across different time zones. Communication is key.",
+    "date": "2026-07-04",
+    "category": "Travel"
+  },
+  {
+    "id": 25,
+    "platform": "Facebook",
+    "author": "Jane Doe Vlogs",
+    "profileImage": "https://images.unsplash.com/photo-1534751516642-a131ffd107fd?w=150",
+    "caption": "Discussion about the upcoming Champions League final. Predictions, lineups, and key match-ups.",
+    "date": "2026-07-03",
+    "category": "Sports"
+  },
+  {
+    "id": 26,
+    "platform": "Instagram",
+    "author": "pixel_perfectionist",
+    "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "caption": "Starting the day with coffee, journaling, and meditation. Quiet mornings are my favorite. \u2615\ud83d\udcd3\ud83e\uddd8\u200d\u2640\ufe0f #morningroutine #mindfulness #lifestyle",
+    "date": "2026-06-28",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 27,
+    "platform": "LinkedIn",
+    "author": "Elena Rostova",
+    "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "caption": "The rise of intentional living: minimalism, mindfulness, and focusing on what truly matters in your career and life.",
+    "date": "2026-07-01",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 28,
+    "platform": "Facebook",
+    "author": "Local Sports Hub",
+    "profileImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=150",
+    "caption": "A list of remote-friendly tech companies that are currently hiring for junior roles.",
+    "date": "2026-06-30",
+    "category": "Career"
+  },
+  {
+    "id": 29,
+    "platform": "Instagram",
+    "author": "wanderlust_dan",
+    "profileImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "caption": "My robot vacuum is either a genius or planning something. It spent 20 minutes trying to fight a slipper. AI is taking over the world, guys. \ud83d\ude02 #ai #smarthome #robot #funny",
+    "date": "2026-07-08",
+    "category": "AI"
+  },
+  {
+    "id": 30,
+    "platform": "Instagram",
+    "author": "travel_with_lisa",
+    "profileImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "caption": "Graduation day! \ud83c\udf93 We made it! So excited for the next chapter. #graduation #university #classof2026 #achievement",
+    "date": "2026-06-26",
+    "category": "Education"
+  },
+  {
+    "id": 31,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "Wishing a happy and blessed festival to everyone celebrating. May it bring peace, joy, and prosperity to your homes.",
+    "date": "2026-07-07",
+    "category": "Festivals"
+  },
+  {
+    "id": 32,
+    "platform": "Facebook",
+    "author": "Global Tech Community",
+    "profileImage": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=150",
+    "caption": "We are hosting a panel discussion on GenAI ethics. Topics include copyright, synthetic data, and deepfakes. Join us live this Thursday!",
+    "date": "2026-07-04",
+    "category": "GenAI"
+  },
+  {
+    "id": 33,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "Just launched a community for self-taught software engineers. A space to share resources, review code, and find jobs.",
+    "date": "2026-07-02",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 34,
+    "platform": "Facebook",
+    "author": "Robert Downey Jr. Fan Club",
+    "profileImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "caption": "A review of the new STEM curriculum being implemented in local schools. Great step forward for young students.",
+    "date": "2026-06-29",
+    "category": "Education"
+  },
+  {
+    "id": 35,
+    "platform": "Facebook",
+    "author": "Global Tech Community",
+    "profileImage": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=150",
+    "caption": "Is anyone else experiencing issues with model drift? Our prediction accuracy has dropped significantly since the new system update.",
+    "date": "2026-07-03",
+    "category": "Machine Learning"
+  },
+  {
+    "id": 36,
+    "platform": "Instagram",
+    "author": "pixel_perfectionist",
+    "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "caption": "Setting up my home network firewall. Cybersecurity begins at home! \ud83d\udee1\ufe0f\ud83d\udcbb #smarthome #networking #cybersecurity #diy",
+    "date": "2026-07-01",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 37,
+    "platform": "Facebook",
+    "author": "Robert Downey Jr. Fan Club",
+    "profileImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "caption": "Stuck on a tricky bug in my Python list manipulation. Anyone know why my list elements are mutating unexpectedly?",
+    "date": "2026-06-26",
+    "category": "Python"
+  },
+  {
+    "id": 38,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "Sharing a great tutorial on building your first neural network from scratch using Python. Great explanation for beginners without complex math.",
+    "date": "2026-07-01",
+    "category": "AI"
+  },
+  {
+    "id": 39,
+    "platform": "Instagram",
+    "author": "startup_hustle",
+    "profileImage": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150",
+    "caption": "My online course setup. Learning cloud computing from the comfort of my bed! \ud83d\udecf\ufe0f\ud83d\udcbb #onlinelearning #coursera #education",
+    "date": "2026-07-10",
+    "category": "Education"
+  },
+  {
+    "id": 40,
+    "platform": "LinkedIn",
+    "author": "TechVanguard Solutions",
+    "profileImage": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=150",
+    "caption": "Supervised vs unsupervised learning: a quick guide for product managers. Understanding what ML can and cannot solve is critical for modern product strategy.",
+    "date": "2026-07-07",
+    "category": "Machine Learning"
+  },
+  {
+    "id": 41,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "Night photography in New York City. The neon lights and yellow cabs bring the city to life. \ud83c\udf03\ud83d\ude95 #streetphotography #nyc #nightlife",
+    "date": "2026-07-02",
+    "category": "Photography"
+  },
+  {
+    "id": 42,
+    "platform": "Instagram",
+    "author": "travel_with_lisa",
+    "profileImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "caption": "How hackers intercept data on public Wi-Fi. Always use a VPN when working from coffee shops! \u2615\ud83d\udd12 #cybersecurity #securitytips #privacy",
+    "date": "2026-07-07",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 43,
+    "platform": "LinkedIn",
+    "author": "Elena Rostova",
+    "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "caption": "Your resume should focus on impact, not just responsibilities. Use the XYZ formula: 'Accomplished [X] as measured by [Y], by doing [Z]'.",
+    "date": "2026-07-02",
+    "category": "Career"
+  },
+  {
+    "id": 44,
+    "platform": "Facebook",
+    "author": "Jane Doe Vlogs",
+    "profileImage": "https://images.unsplash.com/photo-1534751516642-a131ffd107fd?w=150",
+    "caption": "Just launched a new e-commerce store! Check out our collection of handmade home decor.",
+    "date": "2026-07-04",
+    "category": "Business"
+  },
+  {
+    "id": 45,
+    "platform": "LinkedIn",
+    "author": "Jessica Pearson",
+    "profileImage": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+    "caption": "A write-up on the mental performance strategies used by elite athletes to perform under pressure.",
+    "date": "2026-07-04",
+    "category": "Sports"
+  },
+  {
+    "id": 46,
+    "platform": "LinkedIn",
+    "author": "TechVanguard Solutions",
+    "profileImage": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=150",
+    "caption": "How event management companies plan massive music festivals: logistics, crowd control, marketing, and safety operations.",
+    "date": "2026-06-25",
+    "category": "Festivals"
+  },
+  {
+    "id": 47,
+    "platform": "Instagram",
+    "author": "pixel_perfectionist",
+    "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "caption": "Python script to automate sending daily emails. Saving 10 minutes every day by spending 3 hours writing a script! Classic. \ud83d\ude02 #programmer #automation #hacks",
+    "date": "2026-07-09",
+    "category": "Python"
+  },
+  {
+    "id": 48,
+    "platform": "Instagram",
+    "author": "travel_with_lisa",
+    "profileImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "caption": "Lock icons and encrypted connections. Ensuring data privacy on the web. \ud83d\udd12\ud83d\udcbb #security #cryptography #webdev",
+    "date": "2026-06-27",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 49,
+    "platform": "LinkedIn",
+    "author": "TechVanguard Solutions",
+    "profileImage": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=150",
+    "caption": "Clean architecture principles: separation of concerns, dependency inversion, and single responsibility. Build systems that scale.",
+    "date": "2026-07-09",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 50,
+    "platform": "LinkedIn",
+    "author": "Sarah Jenkins",
+    "profileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "caption": "Here is why Python remains the undisputed king of AI/ML. The ecosystem (NumPy, Pandas, PyTorch, FastAPI) is unmatched in developer velocity.",
+    "date": "2026-06-30",
+    "category": "Python"
+  },
+  {
+    "id": 51,
+    "platform": "Facebook",
+    "author": "Robert Downey Jr. Fan Club",
+    "profileImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "caption": "Just shared a gallery of my wildlife photography from last week's trip. Let me know what you think of the composition!",
+    "date": "2026-07-02",
+    "category": "Photography"
+  },
+  {
+    "id": 52,
+    "platform": "Facebook",
+    "author": "Robert Downey Jr. Fan Club",
+    "profileImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "caption": "Who do you think is the greatest basketball player of all time? Jordan or LeBron? Give your reasons.",
+    "date": "2026-06-26",
+    "category": "Sports"
+  },
+  {
+    "id": 53,
+    "platform": "Instagram",
+    "author": "startup_hustle",
+    "profileImage": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150",
+    "caption": "Building a web scraper with Beautiful Soup today. Fetching data from the web has never been easier! \ud83d\udd77\ufe0f\ud83d\udcbb #webscraping #python #automation",
+    "date": "2026-06-27",
+    "category": "Python"
+  },
+  {
+    "id": 54,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "Just published a blog post about deploying a Flask app to Google Cloud Run. Very straightforward and cost-effective.",
+    "date": "2026-07-10",
+    "category": "Cloud Computing"
+  },
+  {
+    "id": 55,
+    "platform": "LinkedIn",
+    "author": "David Chen",
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "caption": "Software engineering is not just writing code; it is reading code, designing systems, writing documentation, and collaborating with others.",
+    "date": "2026-07-08",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 56,
+    "platform": "LinkedIn",
+    "author": "Elena Rostova",
+    "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "caption": "Data clean-up takes 80% of a data scientist's time. A good reminder that high-quality data is far more important than complex model architectures.",
+    "date": "2026-07-09",
+    "category": "Data Science"
+  },
+  {
+    "id": 57,
+    "platform": "LinkedIn",
+    "author": "Jessica Pearson",
+    "profileImage": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+    "caption": "Is the hype around GenAI cooling down? No, it's just maturing. Companies are moving from flashy proof-of-concepts to high-ROI integrations.",
+    "date": "2026-07-06",
+    "category": "GenAI"
+  },
+  {
+    "id": 58,
+    "platform": "Instagram",
+    "author": "fit_life_sam",
+    "profileImage": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+    "caption": "Training session in the rain. No excuses, consistency is key! \ud83c\udfc3\u200d\u2642\ufe0f\ud83c\udf27\ufe0f #running #fitnessmotivation #training #discipline",
+    "date": "2026-07-06",
+    "category": "Sports"
+  },
+  {
+    "id": 59,
+    "platform": "LinkedIn",
+    "author": "Sarah Jenkins",
+    "profileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+    "caption": "Web accessibility (a11y) is not a feature; it's a fundamental requirement. Build websites that everyone can use.",
+    "date": "2026-07-01",
+    "category": "Web Development"
+  },
+  {
+    "id": 60,
+    "platform": "Facebook",
+    "author": "Jane Doe Vlogs",
+    "profileImage": "https://images.unsplash.com/photo-1534751516642-a131ffd107fd?w=150",
+    "caption": "Why taking a digital detox weekend and turning off social media is essential for mental health.",
+    "date": "2026-07-09",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 61,
+    "platform": "LinkedIn",
+    "author": "Jessica Pearson",
+    "profileImage": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+    "caption": "The human element is the weakest link in security. Regular phishing simulations and employee training are vital to enterprise defense.",
+    "date": "2026-07-04",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 62,
+    "platform": "Facebook",
+    "author": "Robert Downey Jr. Fan Club",
+    "profileImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "caption": "Why Microsoft's acquisition of GitHub was actually beneficial for the open-source ecosystem.",
+    "date": "2026-07-07",
+    "category": "Open Source"
+  },
+  {
+    "id": 63,
+    "platform": "Instagram",
+    "author": "pixel_perfectionist",
+    "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "caption": "Aesthetically pleasing robot illustrations generated by AI. The blend of technology and design is beautiful. #aiart #scifi #futurism",
+    "date": "2026-06-27",
+    "category": "AI"
+  },
+  {
+    "id": 64,
+    "platform": "LinkedIn",
+    "author": "Elena Rostova",
+    "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "caption": "Negotiating your salary is not greedy; it's professional. Always research market rates and advocate for your value.",
+    "date": "2026-07-03",
+    "category": "Career"
+  },
+  {
+    "id": 65,
+    "platform": "Instagram",
+    "author": "wanderlust_dan",
+    "profileImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "caption": "Behind the scenes of our startup launch. Team meetings, whiteboards, and late-night pizza! \ud83c\udf55\ud83d\udcc8 #startup #business #entrepreneur",
+    "date": "2026-07-05",
+    "category": "Business"
+  },
+  {
+    "id": 66,
+    "platform": "Instagram",
+    "author": "wanderlust_dan",
+    "profileImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "caption": "Office view today. Grateful for a career that allows flexibility. \ud83c\udfe2\ud83c\udf05 #careergoals #view #grateful",
+    "date": "2026-07-05",
+    "category": "Career"
+  },
+  {
+    "id": 67,
+    "platform": "LinkedIn",
+    "author": "Alex Mercer",
+    "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "caption": "Optimizing Web Vitals: How we reduced our Largest Contentful Paint (LCP) by 2 seconds through image optimization and lazy loading.",
+    "date": "2026-07-10",
+    "category": "Web Development"
+  },
+  {
+    "id": 68,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "Simple, healthy meal prep for the week. Baked salmon, quinoa, and roasted asparagus. \ud83d\udc1f\ud83e\udd66 #mealprep #healthyfood #fitness #cleaneating",
+    "date": "2026-06-30",
+    "category": "Food"
+  },
+  {
+    "id": 69,
+    "platform": "Facebook",
+    "author": "Local Sports Hub",
+    "profileImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=150",
+    "caption": "Why editing raw files in Lightroom gives you complete creative control over your images.",
+    "date": "2026-07-03",
+    "category": "Photography"
+  },
+  {
+    "id": 70,
+    "platform": "Facebook",
+    "author": "Jane Doe Vlogs",
+    "profileImage": "https://images.unsplash.com/photo-1534751516642-a131ffd107fd?w=150",
+    "caption": "Why buying local organic produce from farmers' markets is better for both your health and the local economy.",
+    "date": "2026-07-05",
+    "category": "Food"
+  },
+  {
+    "id": 71,
+    "platform": "Instagram",
+    "author": "wanderlust_dan",
+    "profileImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "caption": "Dressing up in traditional attire for the festival celebrations. Colors, lights, and family! \ud83e\ude94\u2728 #festival #celebration #tradition #family",
+    "date": "2026-07-07",
+    "category": "Festivals"
+  },
+  {
+    "id": 72,
+    "platform": "Instagram",
+    "author": "fit_life_sam",
+    "profileImage": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+    "caption": "Celebrating our business anniversary today! Grateful to all our clients who trusted us. \ud83e\udd73\ud83c\udf89 #anniversary #businessmilestone #success",
+    "date": "2026-07-09",
+    "category": "Business"
+  },
+  {
+    "id": 73,
+    "platform": "LinkedIn",
+    "author": "NextGen Recruiters",
+    "profileImage": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150",
+    "caption": "Why diversity in leadership is not a metric; it's a growth driver. Diverse perspectives lead to better decisions.",
+    "date": "2026-07-03",
+    "category": "Business"
+  },
+  {
+    "id": 74,
+    "platform": "Facebook",
+    "author": "Robert Downey Jr. Fan Club",
+    "profileImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "caption": "Built a tool that generates recipes based on what's left in your fridge using GenAI. Cooking has never been so high-tech.",
+    "date": "2026-06-26",
+    "category": "GenAI"
+  },
+  {
+    "id": 75,
+    "platform": "Facebook",
+    "author": "Jane Doe Vlogs",
+    "profileImage": "https://images.unsplash.com/photo-1534751516642-a131ffd107fd?w=150",
+    "caption": "Just signed up for a Python certification course. Ready to upskill myself this summer!",
+    "date": "2026-07-01",
+    "category": "Education"
+  },
+  {
+    "id": 76,
+    "platform": "LinkedIn",
+    "author": "Marcus Thompson",
+    "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "caption": "Customer acquisition cost (CAC) vs Customer lifetime value (LTV). The fundamental equation of sustainable business growth.",
+    "date": "2026-07-03",
+    "category": "Business"
+  },
+  {
+    "id": 77,
+    "platform": "Facebook",
+    "author": "Global Tech Community",
+    "profileImage": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=150",
+    "caption": "A helpful guide on A/B testing methodology. Learn how to calculate statistical significance and avoid false positives.",
+    "date": "2026-07-04",
+    "category": "Data Science"
+  },
+  {
+    "id": 78,
+    "platform": "Instagram",
+    "author": "fit_life_sam",
+    "profileImage": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+    "caption": "Organizing my closet using minimalist principles. Less stuff, more peace of mind. \ud83c\udf43\ud83e\udde5 #minimalism #organized #lifestyleblog",
+    "date": "2026-06-30",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 79,
+    "platform": "LinkedIn",
+    "author": "TechVanguard Solutions",
+    "profileImage": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=150",
+    "caption": "The best leaders don't manage; they empower. Building high-trust cultures is the ultimate competitive advantage.",
+    "date": "2026-07-08",
+    "category": "Business"
+  },
+  {
+    "id": 80,
+    "platform": "Instagram",
+    "author": "wanderlust_dan",
+    "profileImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "caption": "White hat vs Black hat hackers. The good guys vs the bad guys of the internet. \ud83c\udfa9\ud83d\udc80 #hacker #techlife #programming",
+    "date": "2026-07-02",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 81,
+    "platform": "LinkedIn",
+    "author": "Jessica Pearson",
+    "profileImage": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+    "caption": "Gradient descent is the backbone of most ML models. Here is a visual explanation of learning rate, local minima, and how backpropagation optimizes weights.",
+    "date": "2026-06-28",
+    "category": "Machine Learning"
+  },
+  {
+    "id": 82,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "Just booked my flights to Italy! Recommendations for local food spots in Florence and Rome are highly welcome.",
+    "date": "2026-06-30",
+    "category": "Travel"
+  },
+  {
+    "id": 83,
+    "platform": "Facebook",
+    "author": "Global Tech Community",
+    "profileImage": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=150",
+    "caption": "How to get started with open-source contributions. A beginner's guide to git clone, branching, and pull requests.",
+    "date": "2026-07-07",
+    "category": "Open Source"
+  },
+  {
+    "id": 84,
+    "platform": "LinkedIn",
+    "author": "TechVanguard Solutions",
+    "profileImage": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=150",
+    "caption": "Lifelong learning is the new norm. The skills you acquire today will need to be updated in 5 years. Stay curious.",
+    "date": "2026-07-05",
+    "category": "Education"
+  },
+  {
+    "id": 85,
+    "platform": "Instagram",
+    "author": "startup_hustle",
+    "profileImage": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150",
+    "caption": "My favorite Python library is hands down Pandas. Manipulating tabular data in a single line is magic. \ud83d\udc3c\ud83d\udcca #datascience #python #coding",
+    "date": "2026-07-02",
+    "category": "Python"
+  },
+  {
+    "id": 86,
+    "platform": "Facebook",
+    "author": "Global Tech Community",
+    "profileImage": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=150",
+    "caption": "Just launched a free Machine Learning bootcamp for college students. We'll cover everything from data cleaning to model deployment. Share with anyone interested!",
+    "date": "2026-07-07",
+    "category": "Machine Learning"
+  },
+  {
+    "id": 87,
+    "platform": "LinkedIn",
+    "author": "Alex Mercer",
+    "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "caption": "Generative AI is transforming enterprise search. By combining Vector Databases with LLMs via Retrieval-Augmented Generation (RAG), we achieve pinpoint accuracy.",
+    "date": "2026-06-29",
+    "category": "GenAI"
+  },
+  {
+    "id": 88,
+    "platform": "Instagram",
+    "author": "codewith_clara",
+    "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "caption": "Built a GenAI chatbot that mimics Shakespeare. 'To code or not to code, that is the query!' \ud83c\udfad\ud83d\udcbb #genai #llm #chatgpt #programming",
+    "date": "2026-06-30",
+    "category": "GenAI"
+  },
+  {
+    "id": 89,
+    "platform": "Facebook",
+    "author": "Local Sports Hub",
+    "profileImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=150",
+    "caption": "Had an interesting debate about trunk-based development vs git flow. What does your team use?",
+    "date": "2026-07-07",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 90,
+    "platform": "LinkedIn",
+    "author": "Alex Mercer",
+    "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "caption": "Reflecting on the success of our restaurant client's loyalty app launch. Driving repeat customer behavior through data.",
+    "date": "2026-07-04",
+    "category": "Food"
+  },
+  {
+    "id": 91,
+    "platform": "LinkedIn",
+    "author": "TechVanguard Solutions",
+    "profileImage": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=150",
+    "caption": "Work-life integration over work-life balance. Prioritizing physical health, mental well-being, and family drives long-term career success.",
+    "date": "2026-07-09",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 92,
+    "platform": "Instagram",
+    "author": "codewith_clara",
+    "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "caption": "Mock interview prep with my classmate. Behavioral questions are just as important as coding! \ud83d\udcac\ud83e\udd1d #interviewprep #swe #career",
+    "date": "2026-06-27",
+    "category": "Career"
+  },
+  {
+    "id": 93,
+    "platform": "Instagram",
+    "author": "travel_with_lisa",
+    "profileImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "caption": "Exploring the ancient ruins of Machu Picchu. History is alive here! \ud83c\uddf5\ud83c\uddea\u2728 #peru #traveldiaries #bucketlist #ancient",
+    "date": "2026-07-04",
+    "category": "Travel"
+  },
+  {
+    "id": 94,
+    "platform": "Instagram",
+    "author": "pixel_perfectionist",
+    "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "caption": "Visualizing how the internet works through cloud computing. It's just someone else's computer! \u2601\ufe0f\ud83d\udcbb #cloudcomputing #tech #aws #infra",
+    "date": "2026-06-27",
+    "category": "Cloud Computing"
+  },
+  {
+    "id": 95,
+    "platform": "LinkedIn",
+    "author": "David Chen",
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "caption": "Visual storytelling is an essential component of brand identity. A single high-quality photo can convey trust and professionalism.",
+    "date": "2026-06-30",
+    "category": "Photography"
+  },
+  {
+    "id": 96,
+    "platform": "LinkedIn",
+    "author": "Jessica Pearson",
+    "profileImage": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+    "caption": "A discussion on copyright protection and licensing rights for digital creators in the age of social media sharing.",
+    "date": "2026-07-07",
+    "category": "Photography"
+  },
+  {
+    "id": 97,
+    "platform": "LinkedIn",
+    "author": "TechVanguard Solutions",
+    "profileImage": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=150",
+    "caption": "Excited to announce that our team is integrating LLMs to automate customer workflows. Large Language Models are completely shifting how we approach software development. What are your thoughts on agentic workflows?",
+    "date": "2026-07-01",
+    "category": "AI"
+  },
+  {
+    "id": 98,
+    "platform": "LinkedIn",
+    "author": "Alex Mercer",
+    "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "caption": "Excited to share our latest case study: how we reduced developer onboarding times by 50% using custom-trained coding assistants.",
+    "date": "2026-06-30",
+    "category": "GenAI"
+  },
+  {
+    "id": 99,
+    "platform": "LinkedIn",
+    "author": "Alex Mercer",
+    "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "caption": "React Server Components (RSC) are changing the paradigm of frontend development. Fetching data closer to the database is a massive win for performance.",
+    "date": "2026-07-01",
+    "category": "Web Development"
+  },
+  {
+    "id": 100,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "My kid asked me if robots have feelings today. AI chatbots are getting so conversational that children are viewing them as friends. Fascinating times.",
+    "date": "2026-07-06",
+    "category": "AI"
+  },
+  {
+    "id": 101,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "Python list comprehensions are beautiful. One-liners that make code look like poetry. \ud83d\udc0d\u2728 #python #programming #code #developer",
+    "date": "2026-06-27",
+    "category": "Python"
+  },
+  {
+    "id": 102,
+    "platform": "Instagram",
+    "author": "codewith_clara",
+    "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "caption": "Studying for midterms in the library. Fuelled by caffeine and determination. \ud83d\udcda\u2615 #studentlife #collegelife #exams #studygram",
+    "date": "2026-06-28",
+    "category": "Education"
+  },
+  {
+    "id": 103,
+    "platform": "Instagram",
+    "author": "codewith_clara",
+    "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "caption": "Matplotlib vs Seaborn: Which one do you prefer for data visualization? I love Seaborn for its beautiful default themes! \ud83d\udcc8 #datavisualization #python #analyst",
+    "date": "2026-07-05",
+    "category": "Data Science"
+  },
+  {
+    "id": 104,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "What is the most underrated travel destination you've visited? I'm planning my vacation and want to avoid tourist crowds.",
+    "date": "2026-07-01",
+    "category": "Travel"
+  },
+  {
+    "id": 105,
+    "platform": "LinkedIn",
+    "author": "Alex Mercer",
+    "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "caption": "Pivot or persevere? A strategic guide for startup founders navigating product-market fit.",
+    "date": "2026-07-10",
+    "category": "Business"
+  },
+  {
+    "id": 106,
+    "platform": "Instagram",
+    "author": "pixel_perfectionist",
+    "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "caption": "Tasting menu at a 3-Michelin star restaurant tonight. Every plate is a work of art! \ud83c\udf7d\ufe0f\u2728 #finedining #foodie #gastronomy #delicious",
+    "date": "2026-07-01",
+    "category": "Food"
+  },
+  {
+    "id": 107,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "Homemade sourdough bread fresh out of the oven! That crust and crumb structure is perfect. \ud83e\udd56\u2728 #sourdough #baking #foodie #homemade",
+    "date": "2026-06-27",
+    "category": "Food"
+  },
+  {
+    "id": 108,
+    "platform": "Instagram",
+    "author": "wanderlust_dan",
+    "profileImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "caption": "Git commits be like: 'fix bug', 'fix bug final', 'fix bug final 2', 'please work'. We've all been there! \ud83d\ude02 #git #programmer #codinghumor",
+    "date": "2026-06-30",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 109,
+    "platform": "Facebook",
+    "author": "Local Sports Hub",
+    "profileImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=150",
+    "caption": "A review of the new vegan cafe that opened downtown. The avocado toast and matcha latte were excellent.",
+    "date": "2026-06-26",
+    "category": "Food"
+  },
+  {
+    "id": 110,
+    "platform": "Facebook",
+    "author": "Local Sports Hub",
+    "profileImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=150",
+    "caption": "Basic cyber hygiene tips: update your software, backup your files, and enable 2FA on all important accounts.",
+    "date": "2026-07-04",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 111,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "Struggling with CORS errors on my local web development server. Does anyone have a quick fix for Express/Flask?",
+    "date": "2026-06-25",
+    "category": "Web Development"
+  },
+  {
+    "id": 112,
+    "platform": "LinkedIn",
+    "author": "Elena Rostova",
+    "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "caption": "Business travel is back. Reconnecting with global clients in person builds trust that Zoom calls simply cannot match.",
+    "date": "2026-07-08",
+    "category": "Travel"
+  },
+  {
+    "id": 113,
+    "platform": "Facebook",
+    "author": "Jane Doe Vlogs",
+    "profileImage": "https://images.unsplash.com/photo-1534751516642-a131ffd107fd?w=150",
+    "caption": "A simple tutorial on understanding the exposure triangle: Aperture, Shutter Speed, and ISO.",
+    "date": "2026-06-30",
+    "category": "Photography"
+  },
+  {
+    "id": 114,
+    "platform": "LinkedIn",
+    "author": "David Chen",
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "caption": "Proud to have my pull request merged into a major open-source library today. Grateful to the maintainers for their guidance!",
+    "date": "2026-07-03",
+    "category": "Open Source"
+  },
+  {
+    "id": 115,
+    "platform": "Instagram",
+    "author": "codewith_clara",
+    "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "caption": "Networking event today! Connecting with amazing entrepreneurs and sharing ideas. \ud83e\udd1d\ud83d\udcbc #networking #businessgrowth #inspiration",
+    "date": "2026-07-01",
+    "category": "Business"
+  },
+  {
+    "id": 116,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "Late night training runs and coffee. The true life of an ML enthusiast. \u2615\ud83d\udcbb #developer #aiml #machinelearning #nightowl",
+    "date": "2026-07-04",
+    "category": "Machine Learning"
+  },
+  {
+    "id": 117,
+    "platform": "Facebook",
+    "author": "Robert Downey Jr. Fan Club",
+    "profileImage": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "caption": "Went to my first live baseball game of the season. Hot dogs, cold drinks, and a home run victory!",
+    "date": "2026-07-10",
+    "category": "Sports"
+  },
+  {
+    "id": 118,
+    "platform": "Instagram",
+    "author": "travel_with_lisa",
+    "profileImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "caption": "Refactoring legacy code is like cleaning a messy room. It's frustrating at first, but the end result feels amazing. \ud83e\uddf9\ud83d\udcbb #cleancode #refactoring #swe",
+    "date": "2026-07-03",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 119,
+    "platform": "Facebook",
+    "author": "Local Sports Hub",
+    "profileImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=150",
+    "caption": "Why supporting local artisans and food vendors at community festivals is so important.",
+    "date": "2026-07-08",
+    "category": "Festivals"
+  },
+  {
+    "id": 120,
+    "platform": "Facebook",
+    "author": "Local Sports Hub",
+    "profileImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=150",
+    "caption": "Just shared a post about my transition to a plastic-free, zero-waste kitchen lifestyle. Simple steps make a big difference.",
+    "date": "2026-06-27",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 121,
+    "platform": "Instagram",
+    "author": "codewith_clara",
+    "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "caption": "Configuring a CI/CD pipeline to deploy code automatically to GCP. Automation is beautiful! \ud83d\ude80\u2601\ufe0f #cloud #devops #automation #coding",
+    "date": "2026-07-04",
+    "category": "Cloud Computing"
+  },
+  {
+    "id": 122,
+    "platform": "Facebook",
+    "author": "Local Sports Hub",
+    "profileImage": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=150",
+    "caption": "A helpful cheat sheet for Python dictionary methods. Save this for your next coding test!",
+    "date": "2026-06-25",
+    "category": "Python"
+  },
+  {
+    "id": 123,
+    "platform": "LinkedIn",
+    "author": "Alex Mercer",
+    "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "caption": "Traveling teaches you flexibility, adaptability, and cultural awareness\u2014all skills that make you a better leader and collaborator.",
+    "date": "2026-07-03",
+    "category": "Travel"
+  },
+  {
+    "id": 124,
+    "platform": "LinkedIn",
+    "author": "Elena Rostova",
+    "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "caption": "Zero Trust Network Architecture: Never Trust, Always Verify. A paradigm shift in securing modern remote workforces.",
+    "date": "2026-07-10",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 125,
+    "platform": "LinkedIn",
+    "author": "David Chen",
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "caption": "Reflecting on a morning meditation habit that transformed my daily productivity and emotional resilience.",
+    "date": "2026-06-27",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 126,
+    "platform": "LinkedIn",
+    "author": "Marcus Thompson",
+    "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "caption": "Two-Factor Authentication (2FA) is no longer optional. Implement MFA across all systems to protect against credential stuffing attacks.",
+    "date": "2026-07-05",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 127,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "A comparison of the best travel credit cards for earning flight points and airport lounge access.",
+    "date": "2026-06-26",
+    "category": "Travel"
+  },
+  {
+    "id": 128,
+    "platform": "Instagram",
+    "author": "travel_with_lisa",
+    "profileImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
+    "caption": "Diving deep into correlation matrices today. Finding hidden patterns in unstructured datasets is like playing detective. \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83d\udcca #datascience #dataanalytics #statistics",
+    "date": "2026-07-03",
+    "category": "Data Science"
+  },
+  {
+    "id": 129,
+    "platform": "Facebook",
+    "author": "Global Tech Community",
+    "profileImage": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=150",
+    "caption": "How to check if your email has been compromised in a data breach. Use Have I Been Pwned.",
+    "date": "2026-06-26",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": 130,
+    "platform": "LinkedIn",
+    "author": "Elena Rostova",
+    "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "caption": "Reflecting on a productive remote work week in Tokyo. The city's infrastructure and coffee shops are perfect for digital nomads.",
+    "date": "2026-06-26",
+    "category": "Travel"
+  },
+  {
+    "id": 131,
+    "platform": "Instagram",
+    "author": "codewith_clara",
+    "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "caption": "Playing around with midjourney and stable diffusion today. AI art is getting insanely realistic! Which generation is your favorite? \ud83c\udfa8\ud83e\udd16 #ai #digitalart #midjourney #generativeart",
+    "date": "2026-06-30",
+    "category": "AI"
+  },
+  {
+    "id": 132,
+    "platform": "LinkedIn",
+    "author": "NextGen Recruiters",
+    "profileImage": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150",
+    "caption": "Creating a workspace that inspires productivity: natural light, plants, ergonomic furniture, and clean desk setups.",
+    "date": "2026-06-27",
+    "category": "Lifestyle"
+  },
+  {
+    "id": 133,
+    "platform": "Facebook",
+    "author": "Education First",
+    "profileImage": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150",
+    "caption": "Basic composition rules in photography: Rule of Thirds, Leading Lines, and Framing.",
+    "date": "2026-06-26",
+    "category": "Photography"
+  },
+  {
+    "id": 134,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "Customer satisfaction is our priority. Packing orders with love and custom thank you notes! \ud83d\udce6\u2764\ufe0f #smallbusiness #supportlocal #packaging",
+    "date": "2026-06-25",
+    "category": "Business"
+  },
+  {
+    "id": 135,
+    "platform": "Instagram",
+    "author": "fit_life_sam",
+    "profileImage": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150",
+    "caption": "Dancing under the lasers at Coachella! Incredible music and amazing vibes. \ud83c\udfb6\u2728 #coachella #musicfestival #dancing #desert",
+    "date": "2026-07-02",
+    "category": "Festivals"
+  },
+  {
+    "id": 136,
+    "platform": "Instagram",
+    "author": "wanderlust_dan",
+    "profileImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
+    "caption": "Explaining complex algorithm concepts using simple visual doodles. Learning should be fun! \ud83c\udfa8\ud83d\udcbb #education #visuallearning #coding",
+    "date": "2026-07-03",
+    "category": "Education"
+  },
+  {
+    "id": 137,
+    "platform": "LinkedIn",
+    "author": "TechVanguard Solutions",
+    "profileImage": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=150",
+    "caption": "Code reviews are not about catching syntax errors. They are about knowledge sharing, verifying design choices, and ensuring maintainability.",
+    "date": "2026-06-25",
+    "category": "Software Engineering"
+  },
+  {
+    "id": 138,
+    "platform": "Instagram",
+    "author": "codewith_clara",
+    "profileImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+    "caption": "Street portrait of a local artisan in Hanoi. Capturing stories through eyes. \ud83c\uddfb\ud83c\uddf3\ud83d\udcf8 #portraitphotography #travel #hanoi #people",
+    "date": "2026-07-03",
+    "category": "Photography"
+  },
+  {
+    "id": 139,
+    "platform": "LinkedIn",
+    "author": "TechVanguard Solutions",
+    "profileImage": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=150",
+    "caption": "Discussing the growth of sustainable agriculture and plant-based food startups. The future of food must be eco-friendly.",
+    "date": "2026-06-26",
+    "category": "Food"
+  },
+  {
+    "id": 140,
+    "platform": "LinkedIn",
+    "author": "David Chen",
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "caption": "Celebrating the publication of our research paper on Reinforcement Learning for robotics at ICML. Proud of the team's hard work!",
+    "date": "2026-07-01",
+    "category": "Machine Learning"
+  },
+  {
+    "id": 141,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "Synthesizing music using deep neural nets. The future of creative expression is human-AI collaboration. \ud83c\udfa7\u2728 #artificialintelligence #musictech #sounddesign",
+    "date": "2026-07-02",
+    "category": "AI"
+  },
+  {
+    "id": 142,
+    "platform": "LinkedIn",
+    "author": "Jessica Pearson",
+    "profileImage": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+    "caption": "Reflecting on our corporate headshot session. Professional portraits boost confidence and align brand representation.",
+    "date": "2026-06-30",
+    "category": "Photography"
+  },
+  {
+    "id": 143,
+    "platform": "Instagram",
+    "author": "startup_hustle",
+    "profileImage": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150",
+    "caption": "Generative AI UI design concepts. Creating beautiful interfaces dynamically. #uxdesign #uidesign #aiart",
+    "date": "2026-07-08",
+    "category": "GenAI"
+  },
+  {
+    "id": 144,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "Updating my resume for tech internship season! Wish me luck! \ud83d\udcc4\ud83e\udd1e #careerdevelopment #internship #techjobs #students",
+    "date": "2026-07-06",
+    "category": "Career"
+  },
+  {
+    "id": 145,
+    "platform": "Instagram",
+    "author": "chef_marco_bites",
+    "profileImage": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?w=150",
+    "caption": "My workspace essentials for running a business. Laptop, planner, and relentless drive. \ud83d\udcbc\ud83d\udcbb #businessowner #workspace #girlboss",
+    "date": "2026-06-28",
+    "category": "Business"
+  },
+  {
+    "id": 146,
+    "platform": "LinkedIn",
+    "author": "Elena Rostova",
+    "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "caption": "Remote work policies should allow employees to work from anywhere. It boosts employee satisfaction and broadens perspectives.",
+    "date": "2026-07-04",
+    "category": "Travel"
+  },
+  {
+    "id": 147,
+    "platform": "Facebook",
+    "author": "Global Tech Community",
+    "profileImage": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=150",
+    "caption": "Why semantic HTML elements like <header>, <main>, and <footer> matter for both SEO and screen readers.",
+    "date": "2026-06-27",
+    "category": "Web Development"
+  },
+  {
+    "id": 148,
+    "platform": "LinkedIn",
+    "author": "Alex Mercer",
+    "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "caption": "The culinary industry is undergoing a digital transformation. From cloud kitchens to AI-powered supply chains, technology is redefining food.",
+    "date": "2026-06-30",
+    "category": "Food"
+  },
+  {
+    "id": 149,
+    "platform": "Instagram",
+    "author": "startup_hustle",
+    "profileImage": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150",
+    "caption": "Docker containerization explained simply. Shipping code in neat, isolated boxes! \ud83d\udce6\ud83d\udc33 #devops #cloudtech #containers #docker",
+    "date": "2026-06-26",
+    "category": "Cloud Computing"
+  },
+  {
+    "id": 150,
+    "platform": "LinkedIn",
+    "author": "Alex Mercer",
+    "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+    "caption": "Python 3.13 is bringing exciting improvements! The removal of the GIL (Global Interpreter Lock) in experimental builds will revolutionize multi-threaded performance.",
+    "date": "2026-07-09",
+    "category": "Python"
+  }
+]
