@@ -115,7 +115,6 @@ Each post contains:
 
 ## Project Structure
 
-```text
 SocialSense-AI/
 │
 ├── backend/
@@ -134,7 +133,6 @@ SocialSense-AI/
 │   └── search-results.png
 │
 └── README.md
-```
 
 ## Getting Started
 
@@ -235,3 +233,4 @@ Try searching:
 Bhargav Vaghela
 
 Built as an AI/ML internship project using React, Flask and Sentence Transformers.
+

@@ -2,12 +2,40 @@
 
 @import "tailwindcss";
 
-:root {
-  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
-}
+/*
+  Fix for Tailwind v4: @layer base sets font-family on `html` via --theme().
+  Declaring font overrides inside @layer base ensures our rules share the same
+  cascade layer and always win over the Tailwind preflight default, regardless
+  of npm install / Vite cache rebuilds.
+*/
+@layer base {
 
-h1, h2, h3, h4, .font-display {
-  font-family: 'Outfit', sans-serif;
+  :root,
+  html,
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    font-feature-settings: normal;
+    background-color: #f8fafc;
+    /* slate-50 background for light mode */
+  }
+
+  @media (prefers-color-scheme: dark) {
+
+    :root,
+    html,
+    body {
+      background-color: #020617;
+      /* slate-955 / deep slate for dark mode */
+    }
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  .font-display {
+    font-family: 'Outfit', sans-serif;
+  }
 }
 
 /* Glassmorphism custom classes */
